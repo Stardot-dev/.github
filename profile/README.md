@@ -6,5 +6,5 @@ Stardot.devは、次世代のWebインフラ・サービスを提供すること
 
 ## 🤝 Our Community
 - [Stardot's YouTube](https://www.youtube.com/@stardot_dev): StardotのYouTubeアカウント
-- [テンさん's Twitter](https://twitter.com/star_dot123): 運営主Twitterアカウント
-- [テンさん's YouTube](https://www.youtube.com/@star_dot123): 運営主YouTubeアカウント
+- [テンさん's Twitter](https://twitter.com/tensandev): 運営主Twitterアカウント
+- [テンさん's YouTube](https://www.youtube.com/@tensandev): 運営主YouTubeアカウント
